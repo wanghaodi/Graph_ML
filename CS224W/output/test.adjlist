@@ -1,0 +1,10 @@
+#/opt/conda/lib/python3.7/site-packages/ipykernel_launcher.py -f /root/.local/share/jupyter/runtime/kernel-d16dc8ff-392a-4863-b3cf-ab6a298ec65e.json
+# GMT Sat Nov 21 16:28:36 2020
+# 
+1 4 5 7
+2 3 5
+3 5 4 8
+4
+5
+7 8
+8
